@@ -1,0 +1,15 @@
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\3.FormattingAndParsing\bin\Debug\net7.0\3.FormattingAndParsing.exe
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day9\3.FormattingAndParsing\bin\Debug\net7.0\3.FormattingAndParsing.deps.json
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day9\3.FormattingAndParsing\bin\Debug\net7.0\3.FormattingAndParsing.runtimeconfig.json
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\3.FormattingAndParsing\bin\Debug\net7.0\3.FormattingAndParsing.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\3.FormattingAndParsing\bin\Debug\net7.0\3.FormattingAndParsing.pdb
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\3.FormattingAndParsing\obj\Debug\net7.0\3.FormattingAndParsing.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\3.FormattingAndParsing\obj\Debug\net7.0\3.FormattingAndParsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\3.FormattingAndParsing\obj\Debug\net7.0\3.FormattingAndParsing.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\3.FormattingAndParsing\obj\Debug\net7.0\3.FormattingAndParsing.AssemblyInfo.cs
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\3.FormattingAndParsing\obj\Debug\net7.0\3.FormattingAndParsing.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\3.FormattingAndParsing\obj\Debug\net7.0\3.FormattingAndParsing.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\3.FormattingAndParsing\obj\Debug\net7.0\refint\3.FormattingAndParsing.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\3.FormattingAndParsing\obj\Debug\net7.0\3.FormattingAndParsing.pdb
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day9\3.FormattingAndParsing\obj\Debug\net7.0\3.FormattingAndParsing.genruntimeconfig.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day9\3.FormattingAndParsing\obj\Debug\net7.0\ref\3.FormattingAndParsing.dll

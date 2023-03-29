@@ -1,0 +1,15 @@
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\DateTimes\bin\Debug\net7.0\DateTimes.exe
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day9\DateTimes\bin\Debug\net7.0\DateTimes.deps.json
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day9\DateTimes\bin\Debug\net7.0\DateTimes.runtimeconfig.json
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\DateTimes\bin\Debug\net7.0\DateTimes.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\DateTimes\bin\Debug\net7.0\DateTimes.pdb
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\DateTimes\obj\Debug\net7.0\DateTimes.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\DateTimes\obj\Debug\net7.0\DateTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\DateTimes\obj\Debug\net7.0\DateTimes.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\DateTimes\obj\Debug\net7.0\DateTimes.AssemblyInfo.cs
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\DateTimes\obj\Debug\net7.0\DateTimes.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\DateTimes\obj\Debug\net7.0\DateTimes.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\DateTimes\obj\Debug\net7.0\refint\DateTimes.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\DateTimes\obj\Debug\net7.0\DateTimes.pdb
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day9\DateTimes\obj\Debug\net7.0\DateTimes.genruntimeconfig.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day9\DateTimes\obj\Debug\net7.0\ref\DateTimes.dll

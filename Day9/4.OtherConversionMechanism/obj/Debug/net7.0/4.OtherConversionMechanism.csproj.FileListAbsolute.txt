@@ -1,0 +1,15 @@
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day9\4.OtherConversionMechanism\bin\Debug\net7.0\4.OtherConversionMechanism.exe
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day9\4.OtherConversionMechanism\bin\Debug\net7.0\4.OtherConversionMechanism.deps.json
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day9\4.OtherConversionMechanism\bin\Debug\net7.0\4.OtherConversionMechanism.runtimeconfig.json
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day9\4.OtherConversionMechanism\bin\Debug\net7.0\4.OtherConversionMechanism.dll
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day9\4.OtherConversionMechanism\bin\Debug\net7.0\4.OtherConversionMechanism.pdb
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day9\4.OtherConversionMechanism\obj\Debug\net7.0\4.OtherConversionMechanism.csproj.AssemblyReference.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day9\4.OtherConversionMechanism\obj\Debug\net7.0\4.OtherConversionMechanism.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day9\4.OtherConversionMechanism\obj\Debug\net7.0\4.OtherConversionMechanism.AssemblyInfoInputs.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day9\4.OtherConversionMechanism\obj\Debug\net7.0\4.OtherConversionMechanism.AssemblyInfo.cs
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day9\4.OtherConversionMechanism\obj\Debug\net7.0\4.OtherConversionMechanism.csproj.CoreCompileInputs.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day9\4.OtherConversionMechanism\obj\Debug\net7.0\4.OtherConversionMechanism.dll
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day9\4.OtherConversionMechanism\obj\Debug\net7.0\refint\4.OtherConversionMechanism.dll
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day9\4.OtherConversionMechanism\obj\Debug\net7.0\4.OtherConversionMechanism.pdb
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day9\4.OtherConversionMechanism\obj\Debug\net7.0\4.OtherConversionMechanism.genruntimeconfig.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day9\4.OtherConversionMechanism\obj\Debug\net7.0\ref\4.OtherConversionMechanism.dll

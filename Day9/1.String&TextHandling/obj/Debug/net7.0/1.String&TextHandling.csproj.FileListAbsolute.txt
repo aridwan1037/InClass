@@ -1,0 +1,15 @@
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\1.String&TextHandling\bin\Debug\net7.0\1.String&TextHandling.exe
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day9\1.String&TextHandling\bin\Debug\net7.0\1.String&TextHandling.deps.json
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day9\1.String&TextHandling\bin\Debug\net7.0\1.String&TextHandling.runtimeconfig.json
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\1.String&TextHandling\bin\Debug\net7.0\1.String&TextHandling.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\1.String&TextHandling\bin\Debug\net7.0\1.String&TextHandling.pdb
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\1.String&TextHandling\obj\Debug\net7.0\1.String&TextHandling.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\1.String&TextHandling\obj\Debug\net7.0\1.String&TextHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\1.String&TextHandling\obj\Debug\net7.0\1.String&TextHandling.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\1.String&TextHandling\obj\Debug\net7.0\1.String&TextHandling.AssemblyInfo.cs
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\1.String&TextHandling\obj\Debug\net7.0\1.String&TextHandling.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\1.String&TextHandling\obj\Debug\net7.0\1.String&TextHandling.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\1.String&TextHandling\obj\Debug\net7.0\refint\1.String&TextHandling.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day9\1.String&TextHandling\obj\Debug\net7.0\1.String&TextHandling.pdb
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day9\1.String&TextHandling\obj\Debug\net7.0\1.String&TextHandling.genruntimeconfig.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day9\1.String&TextHandling\obj\Debug\net7.0\ref\1.String&TextHandling.dll
