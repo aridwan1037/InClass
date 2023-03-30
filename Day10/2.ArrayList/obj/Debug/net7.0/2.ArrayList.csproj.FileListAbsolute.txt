@@ -1,0 +1,15 @@
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day10\2.ArrayList\bin\Debug\net7.0\2.ArrayList.exe
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day10\2.ArrayList\bin\Debug\net7.0\2.ArrayList.deps.json
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day10\2.ArrayList\bin\Debug\net7.0\2.ArrayList.runtimeconfig.json
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day10\2.ArrayList\bin\Debug\net7.0\2.ArrayList.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day10\2.ArrayList\bin\Debug\net7.0\2.ArrayList.pdb
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day10\2.ArrayList\obj\Debug\net7.0\2.ArrayList.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day10\2.ArrayList\obj\Debug\net7.0\2.ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day10\2.ArrayList\obj\Debug\net7.0\2.ArrayList.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day10\2.ArrayList\obj\Debug\net7.0\2.ArrayList.AssemblyInfo.cs
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day10\2.ArrayList\obj\Debug\net7.0\2.ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day10\2.ArrayList\obj\Debug\net7.0\2.ArrayList.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day10\2.ArrayList\obj\Debug\net7.0\refint\2.ArrayList.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day10\2.ArrayList\obj\Debug\net7.0\2.ArrayList.pdb
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day10\2.ArrayList\obj\Debug\net7.0\2.ArrayList.genruntimeconfig.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day10\2.ArrayList\obj\Debug\net7.0\ref\2.ArrayList.dll

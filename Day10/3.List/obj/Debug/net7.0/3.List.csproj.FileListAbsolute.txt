@@ -1,0 +1,15 @@
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day10\3.List\obj\Debug\net7.0\3.List.csproj.AssemblyReference.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day10\3.List\obj\Debug\net7.0\3.List.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day10\3.List\obj\Debug\net7.0\3.List.AssemblyInfoInputs.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day10\3.List\obj\Debug\net7.0\3.List.AssemblyInfo.cs
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day10\3.List\obj\Debug\net7.0\3.List.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day10\3.List\bin\Debug\net7.0\3.List.exe
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day10\3.List\bin\Debug\net7.0\3.List.deps.json
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day10\3.List\bin\Debug\net7.0\3.List.runtimeconfig.json
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day10\3.List\bin\Debug\net7.0\3.List.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day10\3.List\bin\Debug\net7.0\3.List.pdb
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day10\3.List\obj\Debug\net7.0\3.List.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day10\3.List\obj\Debug\net7.0\refint\3.List.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day10\3.List\obj\Debug\net7.0\3.List.pdb
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day10\3.List\obj\Debug\net7.0\3.List.genruntimeconfig.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day10\3.List\obj\Debug\net7.0\ref\3.List.dll
