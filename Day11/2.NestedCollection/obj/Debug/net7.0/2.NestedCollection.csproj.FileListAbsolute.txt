@@ -1,0 +1,15 @@
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day11\2.NestedCollection\obj\Debug\net7.0\2.NestedCollection.csproj.AssemblyReference.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day11\2.NestedCollection\obj\Debug\net7.0\2.NestedCollection.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day11\2.NestedCollection\obj\Debug\net7.0\2.NestedCollection.AssemblyInfoInputs.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day11\2.NestedCollection\obj\Debug\net7.0\2.NestedCollection.AssemblyInfo.cs
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day11\2.NestedCollection\obj\Debug\net7.0\2.NestedCollection.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day11\2.NestedCollection\bin\Debug\net7.0\2.NestedCollection.exe
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day11\2.NestedCollection\bin\Debug\net7.0\2.NestedCollection.deps.json
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day11\2.NestedCollection\bin\Debug\net7.0\2.NestedCollection.runtimeconfig.json
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day11\2.NestedCollection\bin\Debug\net7.0\2.NestedCollection.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day11\2.NestedCollection\bin\Debug\net7.0\2.NestedCollection.pdb
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day11\2.NestedCollection\obj\Debug\net7.0\2.NestedCollection.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day11\2.NestedCollection\obj\Debug\net7.0\refint\2.NestedCollection.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day11\2.NestedCollection\obj\Debug\net7.0\2.NestedCollection.pdb
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day11\2.NestedCollection\obj\Debug\net7.0\2.NestedCollection.genruntimeconfig.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day11\2.NestedCollection\obj\Debug\net7.0\ref\2.NestedCollection.dll

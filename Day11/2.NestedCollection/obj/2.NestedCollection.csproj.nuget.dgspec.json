@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day11\\1.FooBar2.0\\1.FooBar2.0.csproj": {}
+    "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day11\\2.NestedCollection\\2.NestedCollection.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day11\\1.FooBar2.0\\1.FooBar2.0.csproj": {
+    "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day11\\2.NestedCollection\\2.NestedCollection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day11\\1.FooBar2.0\\1.FooBar2.0.csproj",
-        "projectName": "1.FooBar2.0",
-        "projectPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day11\\1.FooBar2.0\\1.FooBar2.0.csproj",
+        "projectUniqueName": "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day11\\2.NestedCollection\\2.NestedCollection.csproj",
+        "projectName": "2.NestedCollection",
+        "projectPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day11\\2.NestedCollection\\2.NestedCollection.csproj",
         "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day11\\1.FooBar2.0\\obj\\",
+        "outputPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day11\\2.NestedCollection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"

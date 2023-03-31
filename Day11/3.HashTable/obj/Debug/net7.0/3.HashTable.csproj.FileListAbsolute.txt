@@ -1,0 +1,15 @@
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day11\3.HashTable\obj\Debug\net7.0\3.HashTable.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day11\3.HashTable\obj\Debug\net7.0\3.HashTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day11\3.HashTable\obj\Debug\net7.0\3.HashTable.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day11\3.HashTable\obj\Debug\net7.0\3.HashTable.AssemblyInfo.cs
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day11\3.HashTable\obj\Debug\net7.0\3.HashTable.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day11\3.HashTable\bin\Debug\net7.0\3.HashTable.exe
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day11\3.HashTable\bin\Debug\net7.0\3.HashTable.deps.json
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day11\3.HashTable\bin\Debug\net7.0\3.HashTable.runtimeconfig.json
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day11\3.HashTable\bin\Debug\net7.0\3.HashTable.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day11\3.HashTable\bin\Debug\net7.0\3.HashTable.pdb
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day11\3.HashTable\obj\Debug\net7.0\3.HashTable.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day11\3.HashTable\obj\Debug\net7.0\refint\3.HashTable.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day11\3.HashTable\obj\Debug\net7.0\3.HashTable.pdb
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day11\3.HashTable\obj\Debug\net7.0\3.HashTable.genruntimeconfig.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day11\3.HashTable\obj\Debug\net7.0\ref\3.HashTable.dll
