@@ -1,0 +1,15 @@
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day14\1.ReviewMateri\obj\Debug\net7.0\1.ReviewMateri.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day14\1.ReviewMateri\obj\Debug\net7.0\1.ReviewMateri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day14\1.ReviewMateri\obj\Debug\net7.0\1.ReviewMateri.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day14\1.ReviewMateri\obj\Debug\net7.0\1.ReviewMateri.AssemblyInfo.cs
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day14\1.ReviewMateri\obj\Debug\net7.0\1.ReviewMateri.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day14\1.ReviewMateri\bin\Debug\net7.0\1.ReviewMateri.exe
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day14\1.ReviewMateri\bin\Debug\net7.0\1.ReviewMateri.deps.json
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day14\1.ReviewMateri\bin\Debug\net7.0\1.ReviewMateri.runtimeconfig.json
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day14\1.ReviewMateri\bin\Debug\net7.0\1.ReviewMateri.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day14\1.ReviewMateri\bin\Debug\net7.0\1.ReviewMateri.pdb
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day14\1.ReviewMateri\obj\Debug\net7.0\1.ReviewMateri.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day14\1.ReviewMateri\obj\Debug\net7.0\refint\1.ReviewMateri.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day14\1.ReviewMateri\obj\Debug\net7.0\1.ReviewMateri.pdb
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day14\1.ReviewMateri\obj\Debug\net7.0\1.ReviewMateri.genruntimeconfig.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day14\1.ReviewMateri\obj\Debug\net7.0\ref\1.ReviewMateri.dll
