@@ -1,0 +1,30 @@
+c:\C#\Bootcamp\vscode\Day 12\DestructorExplicit\bin\Debug\net7.0\DestructorExplicit.exe
+c:\C#\Bootcamp\vscode\Day 12\DestructorExplicit\bin\Debug\net7.0\DestructorExplicit.deps.json
+c:\C#\Bootcamp\vscode\Day 12\DestructorExplicit\bin\Debug\net7.0\DestructorExplicit.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 12\DestructorExplicit\bin\Debug\net7.0\DestructorExplicit.dll
+c:\C#\Bootcamp\vscode\Day 12\DestructorExplicit\bin\Debug\net7.0\DestructorExplicit.pdb
+c:\C#\Bootcamp\vscode\Day 12\DestructorExplicit\obj\Debug\net7.0\DestructorExplicit.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 12\DestructorExplicit\obj\Debug\net7.0\DestructorExplicit.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 12\DestructorExplicit\obj\Debug\net7.0\DestructorExplicit.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 12\DestructorExplicit\obj\Debug\net7.0\DestructorExplicit.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 12\DestructorExplicit\obj\Debug\net7.0\DestructorExplicit.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 12\DestructorExplicit\obj\Debug\net7.0\DestructorExplicit.dll
+c:\C#\Bootcamp\vscode\Day 12\DestructorExplicit\obj\Debug\net7.0\refint\DestructorExplicit.dll
+c:\C#\Bootcamp\vscode\Day 12\DestructorExplicit\obj\Debug\net7.0\DestructorExplicit.pdb
+c:\C#\Bootcamp\vscode\Day 12\DestructorExplicit\obj\Debug\net7.0\DestructorExplicit.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 12\DestructorExplicit\obj\Debug\net7.0\ref\DestructorExplicit.dll
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\DestructorExplicit\bin\Debug\net7.0\DestructorExplicit.exe
+c:\Users\Formulatrix\Documents\GitHub\GCAndDispose\DestructorExplicit\bin\Debug\net7.0\DestructorExplicit.deps.json
+c:\Users\Formulatrix\Documents\GitHub\GCAndDispose\DestructorExplicit\bin\Debug\net7.0\DestructorExplicit.runtimeconfig.json
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\DestructorExplicit\bin\Debug\net7.0\DestructorExplicit.dll
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\DestructorExplicit\bin\Debug\net7.0\DestructorExplicit.pdb
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\DestructorExplicit\obj\Debug\net7.0\DestructorExplicit.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\DestructorExplicit\obj\Debug\net7.0\DestructorExplicit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\DestructorExplicit\obj\Debug\net7.0\DestructorExplicit.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\DestructorExplicit\obj\Debug\net7.0\DestructorExplicit.AssemblyInfo.cs
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\DestructorExplicit\obj\Debug\net7.0\DestructorExplicit.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\DestructorExplicit\obj\Debug\net7.0\DestructorExplicit.dll
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\DestructorExplicit\obj\Debug\net7.0\refint\DestructorExplicit.dll
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\DestructorExplicit\obj\Debug\net7.0\DestructorExplicit.pdb
+c:\Users\Formulatrix\Documents\GitHub\GCAndDispose\DestructorExplicit\obj\Debug\net7.0\DestructorExplicit.genruntimeconfig.cache
+c:\Users\Formulatrix\Documents\GitHub\GCAndDispose\DestructorExplicit\obj\Debug\net7.0\ref\DestructorExplicit.dll

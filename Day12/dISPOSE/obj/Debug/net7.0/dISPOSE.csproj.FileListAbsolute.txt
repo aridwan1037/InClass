@@ -1,0 +1,15 @@
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\dISPOSE\bin\Debug\net7.0\dISPOSE.exe
+c:\Users\Formulatrix\Documents\GitHub\GCAndDispose\dISPOSE\bin\Debug\net7.0\dISPOSE.deps.json
+c:\Users\Formulatrix\Documents\GitHub\GCAndDispose\dISPOSE\bin\Debug\net7.0\dISPOSE.runtimeconfig.json
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\dISPOSE\bin\Debug\net7.0\dISPOSE.dll
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\dISPOSE\bin\Debug\net7.0\dISPOSE.pdb
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\dISPOSE\obj\Debug\net7.0\dISPOSE.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\dISPOSE\obj\Debug\net7.0\dISPOSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\dISPOSE\obj\Debug\net7.0\dISPOSE.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\dISPOSE\obj\Debug\net7.0\dISPOSE.AssemblyInfo.cs
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\dISPOSE\obj\Debug\net7.0\dISPOSE.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\dISPOSE\obj\Debug\net7.0\dISPOSE.dll
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\dISPOSE\obj\Debug\net7.0\refint\dISPOSE.dll
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\dISPOSE\obj\Debug\net7.0\dISPOSE.pdb
+c:\Users\Formulatrix\Documents\GitHub\GCAndDispose\dISPOSE\obj\Debug\net7.0\dISPOSE.genruntimeconfig.cache
+c:\Users\Formulatrix\Documents\GitHub\GCAndDispose\dISPOSE\obj\Debug\net7.0\ref\dISPOSE.dll

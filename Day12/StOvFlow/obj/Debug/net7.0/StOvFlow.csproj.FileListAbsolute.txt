@@ -1,0 +1,30 @@
+c:\C#\Bootcamp\vscode\Day 12\StOvFlow\bin\Debug\net7.0\StOvFlow.exe
+c:\C#\Bootcamp\vscode\Day 12\StOvFlow\bin\Debug\net7.0\StOvFlow.deps.json
+c:\C#\Bootcamp\vscode\Day 12\StOvFlow\bin\Debug\net7.0\StOvFlow.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 12\StOvFlow\bin\Debug\net7.0\StOvFlow.dll
+c:\C#\Bootcamp\vscode\Day 12\StOvFlow\bin\Debug\net7.0\StOvFlow.pdb
+c:\C#\Bootcamp\vscode\Day 12\StOvFlow\obj\Debug\net7.0\StOvFlow.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 12\StOvFlow\obj\Debug\net7.0\StOvFlow.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 12\StOvFlow\obj\Debug\net7.0\StOvFlow.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 12\StOvFlow\obj\Debug\net7.0\StOvFlow.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 12\StOvFlow\obj\Debug\net7.0\StOvFlow.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 12\StOvFlow\obj\Debug\net7.0\StOvFlow.dll
+c:\C#\Bootcamp\vscode\Day 12\StOvFlow\obj\Debug\net7.0\refint\StOvFlow.dll
+c:\C#\Bootcamp\vscode\Day 12\StOvFlow\obj\Debug\net7.0\StOvFlow.pdb
+c:\C#\Bootcamp\vscode\Day 12\StOvFlow\obj\Debug\net7.0\StOvFlow.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 12\StOvFlow\obj\Debug\net7.0\ref\StOvFlow.dll
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\StOvFlow\bin\Debug\net7.0\StOvFlow.exe
+c:\Users\Formulatrix\Documents\GitHub\GCAndDispose\StOvFlow\bin\Debug\net7.0\StOvFlow.deps.json
+c:\Users\Formulatrix\Documents\GitHub\GCAndDispose\StOvFlow\bin\Debug\net7.0\StOvFlow.runtimeconfig.json
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\StOvFlow\bin\Debug\net7.0\StOvFlow.dll
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\StOvFlow\bin\Debug\net7.0\StOvFlow.pdb
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\StOvFlow\obj\Debug\net7.0\StOvFlow.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\StOvFlow\obj\Debug\net7.0\StOvFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\StOvFlow\obj\Debug\net7.0\StOvFlow.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\StOvFlow\obj\Debug\net7.0\StOvFlow.AssemblyInfo.cs
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\StOvFlow\obj\Debug\net7.0\StOvFlow.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\StOvFlow\obj\Debug\net7.0\StOvFlow.dll
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\StOvFlow\obj\Debug\net7.0\refint\StOvFlow.dll
+C:\Users\Formulatrix\Documents\GitHub\GCAndDispose\StOvFlow\obj\Debug\net7.0\StOvFlow.pdb
+c:\Users\Formulatrix\Documents\GitHub\GCAndDispose\StOvFlow\obj\Debug\net7.0\StOvFlow.genruntimeconfig.cache
+c:\Users\Formulatrix\Documents\GitHub\GCAndDispose\StOvFlow\obj\Debug\net7.0\ref\StOvFlow.dll
