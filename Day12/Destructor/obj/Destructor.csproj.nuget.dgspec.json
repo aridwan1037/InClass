@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Formulatrix\\Documents\\GitHub\\GCAndDispose\\Destructor\\Destructor.csproj": {}
+    "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\Destructor\\Destructor.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Formulatrix\\Documents\\GitHub\\GCAndDispose\\Destructor\\Destructor.csproj": {
+    "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\Destructor\\Destructor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Formulatrix\\Documents\\GitHub\\GCAndDispose\\Destructor\\Destructor.csproj",
+        "projectUniqueName": "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\Destructor\\Destructor.csproj",
         "projectName": "Destructor",
-        "projectPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\GCAndDispose\\Destructor\\Destructor.csproj",
+        "projectPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\Destructor\\Destructor.csproj",
         "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\GCAndDispose\\Destructor\\obj\\",
+        "outputPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\Destructor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"

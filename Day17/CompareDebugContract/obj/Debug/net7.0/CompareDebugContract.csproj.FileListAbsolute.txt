@@ -1,0 +1,15 @@
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\CompareDebugContract\bin\Debug\net7.0\CompareDebugContract.exe
+c:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\CompareDebugContract\bin\Debug\net7.0\CompareDebugContract.deps.json
+c:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\CompareDebugContract\bin\Debug\net7.0\CompareDebugContract.runtimeconfig.json
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\CompareDebugContract\bin\Debug\net7.0\CompareDebugContract.dll
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\CompareDebugContract\bin\Debug\net7.0\CompareDebugContract.pdb
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\CompareDebugContract\obj\Debug\net7.0\CompareDebugContract.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\CompareDebugContract\obj\Debug\net7.0\CompareDebugContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\CompareDebugContract\obj\Debug\net7.0\CompareDebugContract.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\CompareDebugContract\obj\Debug\net7.0\CompareDebugContract.AssemblyInfo.cs
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\CompareDebugContract\obj\Debug\net7.0\CompareDebugContract.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\CompareDebugContract\obj\Debug\net7.0\CompareDebugContract.dll
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\CompareDebugContract\obj\Debug\net7.0\refint\CompareDebugContract.dll
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\CompareDebugContract\obj\Debug\net7.0\CompareDebugContract.pdb
+c:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\CompareDebugContract\obj\Debug\net7.0\CompareDebugContract.genruntimeconfig.cache
+c:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\CompareDebugContract\obj\Debug\net7.0\ref\CompareDebugContract.dll

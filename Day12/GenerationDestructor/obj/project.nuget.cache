@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3BxCxXZH842LEZ2idCjX3gNS+AZLjdy2PSnun7vvMUrGvFuI+aZfX8qWRNX/OgUbADaYAS3PQ3f/jJwRFZUzPw==",
+  "dgSpecHash": "fX9SgTHQGgkQovKtgrCWYbRfsEPz3R985clsDdIJ10x4eC4WLcDs3jiqkCg0b6yOABxRmKvVrzMlqK6MxJpVzQ==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\GenerationDestructor\\GenerationDestructor.csproj",
+  "projectFilePath": "C:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\GenerationDestructor\\GenerationDestructor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

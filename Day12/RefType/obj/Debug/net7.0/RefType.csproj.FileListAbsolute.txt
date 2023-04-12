@@ -13,3 +13,18 @@ c:\C#\Bootcamp\vscode\Day 12\RefType\obj\Debug\net7.0\refint\RefType.dll
 c:\C#\Bootcamp\vscode\Day 12\RefType\obj\Debug\net7.0\RefType.pdb
 c:\C#\Bootcamp\vscode\Day 12\RefType\obj\Debug\net7.0\RefType.genruntimeconfig.cache
 c:\C#\Bootcamp\vscode\Day 12\RefType\obj\Debug\net7.0\ref\RefType.dll
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\RefType\bin\Debug\net7.0\RefType.exe
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\RefType\bin\Debug\net7.0\RefType.deps.json
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\RefType\bin\Debug\net7.0\RefType.runtimeconfig.json
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\RefType\bin\Debug\net7.0\RefType.dll
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\RefType\bin\Debug\net7.0\RefType.pdb
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\RefType\obj\Debug\net7.0\RefType.csproj.AssemblyReference.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\RefType\obj\Debug\net7.0\RefType.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\RefType\obj\Debug\net7.0\RefType.AssemblyInfoInputs.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\RefType\obj\Debug\net7.0\RefType.AssemblyInfo.cs
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\RefType\obj\Debug\net7.0\RefType.csproj.CoreCompileInputs.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\RefType\obj\Debug\net7.0\RefType.dll
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\RefType\obj\Debug\net7.0\refint\RefType.dll
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\RefType\obj\Debug\net7.0\RefType.pdb
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\RefType\obj\Debug\net7.0\RefType.genruntimeconfig.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\RefType\obj\Debug\net7.0\ref\RefType.dll

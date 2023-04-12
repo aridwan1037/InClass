@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Formulatrix\\Documents\\GitHub\\GCAndDispose\\DestructorExplicit\\DestructorExplicit.csproj": {}
+    "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\DestructorExplicit\\DestructorExplicit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Formulatrix\\Documents\\GitHub\\GCAndDispose\\DestructorExplicit\\DestructorExplicit.csproj": {
+    "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\DestructorExplicit\\DestructorExplicit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Formulatrix\\Documents\\GitHub\\GCAndDispose\\DestructorExplicit\\DestructorExplicit.csproj",
+        "projectUniqueName": "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\DestructorExplicit\\DestructorExplicit.csproj",
         "projectName": "DestructorExplicit",
-        "projectPath": "C:\\Users\\Formulatrix\\Documents\\GitHub\\GCAndDispose\\DestructorExplicit\\DestructorExplicit.csproj",
+        "projectPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\DestructorExplicit\\DestructorExplicit.csproj",
         "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Formulatrix\\Documents\\GitHub\\GCAndDispose\\DestructorExplicit\\obj\\",
+        "outputPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\DestructorExplicit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"

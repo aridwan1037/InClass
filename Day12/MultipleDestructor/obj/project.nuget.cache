@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xgu+3HD7KphIerQ/OOgsF5wkvmH5ZBucNJE8P7XsfW1XLlH3ScWmX7TCQvrSodQ7fdZiGfDmhn4gshcYgz+O4Q==",
+  "dgSpecHash": "xyIyN0GAYfIo9vohIWgJzjfqMRlojMgMJHOfMR/7sXab++esXFdqo7R8C20Ft/yyeTipOVsv2/SQUlsEySGRzA==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\MultipleDestructor\\MultipleDestructor.csproj",
+  "projectFilePath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\MultipleDestructor\\MultipleDestructor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

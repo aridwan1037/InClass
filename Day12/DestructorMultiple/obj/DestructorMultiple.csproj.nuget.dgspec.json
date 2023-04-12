@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Formulatrix\\Documents\\GitHub\\GCAndDispose\\DestructorMultiple\\DestructorMultiple.csproj": {}
+    "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\DestructorMultiple\\DestructorMultiple.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Formulatrix\\Documents\\GitHub\\GCAndDispose\\DestructorMultiple\\DestructorMultiple.csproj": {
+    "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\DestructorMultiple\\DestructorMultiple.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Formulatrix\\Documents\\GitHub\\GCAndDispose\\DestructorMultiple\\DestructorMultiple.csproj",
+        "projectUniqueName": "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\DestructorMultiple\\DestructorMultiple.csproj",
         "projectName": "DestructorMultiple",
-        "projectPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\GCAndDispose\\DestructorMultiple\\DestructorMultiple.csproj",
+        "projectPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\DestructorMultiple\\DestructorMultiple.csproj",
         "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\GCAndDispose\\DestructorMultiple\\obj\\",
+        "outputPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\DestructorMultiple\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"

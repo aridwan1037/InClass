@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kinar\\.nuget\\packages\\": {}
+    "C:\\Users\\Formulatrix\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 12\\MultipleDestructor\\MultipleDestructor.csproj",
+      "projectUniqueName": "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\MultipleDestructor\\MultipleDestructor.csproj",
       "projectName": "MultipleDestructor",
-      "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 12\\MultipleDestructor\\MultipleDestructor.csproj",
-      "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 12\\MultipleDestructor\\obj\\",
+      "projectPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\MultipleDestructor\\MultipleDestructor.csproj",
+      "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\MultipleDestructor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

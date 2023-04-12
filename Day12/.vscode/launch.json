@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Destructor/bin/Debug/net7.0/Destructor.dll",
+            "program": "${workspaceFolder}/GenerationDestructor/bin/Debug/net7.0/GenerationDestructor.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Destructor",
+            "cwd": "${workspaceFolder}/GenerationDestructor",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false

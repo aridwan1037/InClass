@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rxkod95WFh+yUlZq/48Q/oSGrCXtcJ3fSJKyr9RkZT8oCUd58RNgco2agq11i/Xswgyp4Sx7eA0zXHsgaLZWIg==",
+  "dgSpecHash": "lTVzS5pErAoVqt9s5w6Ym6HfFHTZRN2uW/TQx0/35alMERV6fBOIUcdcubn3mo+yTbiG7TtwRh3FksDuoihbvg==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\GenerationDisposePattern\\GenerationDisposePattern.csproj",
+  "projectFilePath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\GenerationDisposePattern\\GenerationDisposePattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

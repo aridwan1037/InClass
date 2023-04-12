@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Formulatrix\\Documents\\GitHub\\GCAndDispose\\DestructorImplicit\\DestructorImplicit.csproj": {}
+    "C:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\DestructorImplicit\\DestructorImplicit.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Formulatrix\\Documents\\GitHub\\GCAndDispose\\DestructorImplicit\\DestructorImplicit.csproj": {
+    "C:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\DestructorImplicit\\DestructorImplicit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Formulatrix\\Documents\\GitHub\\GCAndDispose\\DestructorImplicit\\DestructorImplicit.csproj",
+        "projectUniqueName": "C:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\DestructorImplicit\\DestructorImplicit.csproj",
         "projectName": "DestructorImplicit",
-        "projectPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\GCAndDispose\\DestructorImplicit\\DestructorImplicit.csproj",
+        "projectPath": "C:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\DestructorImplicit\\DestructorImplicit.csproj",
         "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\GCAndDispose\\DestructorImplicit\\obj\\",
+        "outputPath": "C:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\DestructorImplicit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"

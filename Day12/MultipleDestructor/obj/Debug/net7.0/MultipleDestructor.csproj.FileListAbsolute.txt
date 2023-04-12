@@ -13,3 +13,18 @@ c:\C#\Bootcamp\vscode\Day 12\MultipleDestructor\obj\Debug\net7.0\refint\Multiple
 c:\C#\Bootcamp\vscode\Day 12\MultipleDestructor\obj\Debug\net7.0\MultipleDestructor.pdb
 c:\C#\Bootcamp\vscode\Day 12\MultipleDestructor\obj\Debug\net7.0\MultipleDestructor.genruntimeconfig.cache
 c:\C#\Bootcamp\vscode\Day 12\MultipleDestructor\obj\Debug\net7.0\ref\MultipleDestructor.dll
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\MultipleDestructor\bin\Debug\net7.0\MultipleDestructor.exe
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\MultipleDestructor\bin\Debug\net7.0\MultipleDestructor.deps.json
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\MultipleDestructor\bin\Debug\net7.0\MultipleDestructor.runtimeconfig.json
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\MultipleDestructor\bin\Debug\net7.0\MultipleDestructor.dll
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\MultipleDestructor\bin\Debug\net7.0\MultipleDestructor.pdb
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\MultipleDestructor\obj\Debug\net7.0\MultipleDestructor.csproj.AssemblyReference.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\MultipleDestructor\obj\Debug\net7.0\MultipleDestructor.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\MultipleDestructor\obj\Debug\net7.0\MultipleDestructor.AssemblyInfoInputs.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\MultipleDestructor\obj\Debug\net7.0\MultipleDestructor.AssemblyInfo.cs
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\MultipleDestructor\obj\Debug\net7.0\MultipleDestructor.csproj.CoreCompileInputs.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\MultipleDestructor\obj\Debug\net7.0\MultipleDestructor.dll
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\MultipleDestructor\obj\Debug\net7.0\refint\MultipleDestructor.dll
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\MultipleDestructor\obj\Debug\net7.0\MultipleDestructor.pdb
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\MultipleDestructor\obj\Debug\net7.0\MultipleDestructor.genruntimeconfig.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\MultipleDestructor\obj\Debug\net7.0\ref\MultipleDestructor.dll

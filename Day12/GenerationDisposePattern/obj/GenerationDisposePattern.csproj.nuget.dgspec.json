@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 12\\GenerationDisposePattern\\GenerationDisposePattern.csproj": {}
+    "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\GenerationDisposePattern\\GenerationDisposePattern.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 12\\GenerationDisposePattern\\GenerationDisposePattern.csproj": {
+    "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\GenerationDisposePattern\\GenerationDisposePattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 12\\GenerationDisposePattern\\GenerationDisposePattern.csproj",
+        "projectUniqueName": "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\GenerationDisposePattern\\GenerationDisposePattern.csproj",
         "projectName": "GenerationDisposePattern",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\GenerationDisposePattern\\GenerationDisposePattern.csproj",
-        "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\GenerationDisposePattern\\obj\\",
+        "projectPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\GenerationDisposePattern\\GenerationDisposePattern.csproj",
+        "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\GenerationDisposePattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

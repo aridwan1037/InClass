@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 12\\GenerationDestructor\\GenerationDestructor.csproj": {}
+    "C:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\GenerationDestructor\\GenerationDestructor.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 12\\GenerationDestructor\\GenerationDestructor.csproj": {
+    "C:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\GenerationDestructor\\GenerationDestructor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 12\\GenerationDestructor\\GenerationDestructor.csproj",
+        "projectUniqueName": "C:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\GenerationDestructor\\GenerationDestructor.csproj",
         "projectName": "GenerationDestructor",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\GenerationDestructor\\GenerationDestructor.csproj",
-        "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 12\\GenerationDestructor\\obj\\",
+        "projectPath": "C:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\GenerationDestructor\\GenerationDestructor.csproj",
+        "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\GenerationDestructor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

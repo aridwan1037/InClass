@@ -1,0 +1,30 @@
+c:\C#\Bootcamp\vscode\Day 17\Contract\bin\Debug\net7.0\Contract.exe
+c:\C#\Bootcamp\vscode\Day 17\Contract\bin\Debug\net7.0\Contract.deps.json
+c:\C#\Bootcamp\vscode\Day 17\Contract\bin\Debug\net7.0\Contract.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 17\Contract\bin\Debug\net7.0\Contract.dll
+c:\C#\Bootcamp\vscode\Day 17\Contract\bin\Debug\net7.0\Contract.pdb
+c:\C#\Bootcamp\vscode\Day 17\Contract\obj\Debug\net7.0\Contract.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 17\Contract\obj\Debug\net7.0\Contract.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 17\Contract\obj\Debug\net7.0\Contract.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 17\Contract\obj\Debug\net7.0\Contract.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 17\Contract\obj\Debug\net7.0\Contract.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 17\Contract\obj\Debug\net7.0\Contract.dll
+c:\C#\Bootcamp\vscode\Day 17\Contract\obj\Debug\net7.0\refint\Contract.dll
+c:\C#\Bootcamp\vscode\Day 17\Contract\obj\Debug\net7.0\Contract.pdb
+c:\C#\Bootcamp\vscode\Day 17\Contract\obj\Debug\net7.0\Contract.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 17\Contract\obj\Debug\net7.0\ref\Contract.dll
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\Contract\bin\Debug\net7.0\Contract.exe
+c:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\Contract\bin\Debug\net7.0\Contract.deps.json
+c:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\Contract\bin\Debug\net7.0\Contract.runtimeconfig.json
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\Contract\bin\Debug\net7.0\Contract.dll
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\Contract\bin\Debug\net7.0\Contract.pdb
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\Contract\obj\Debug\net7.0\Contract.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\Contract\obj\Debug\net7.0\Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\Contract\obj\Debug\net7.0\Contract.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\Contract\obj\Debug\net7.0\Contract.AssemblyInfo.cs
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\Contract\obj\Debug\net7.0\Contract.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\Contract\obj\Debug\net7.0\Contract.dll
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\Contract\obj\Debug\net7.0\refint\Contract.dll
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\Contract\obj\Debug\net7.0\Contract.pdb
+c:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\Contract\obj\Debug\net7.0\Contract.genruntimeconfig.cache
+c:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\Contract\obj\Debug\net7.0\ref\Contract.dll

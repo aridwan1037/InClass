@@ -1,0 +1,15 @@
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\DebugFailAssertion\obj\Debug\net7.0\DebugFailAssertion.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\DebugFailAssertion\obj\Debug\net7.0\DebugFailAssertion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\DebugFailAssertion\obj\Debug\net7.0\DebugFailAssertion.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\DebugFailAssertion\obj\Debug\net7.0\DebugFailAssertion.AssemblyInfo.cs
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\DebugFailAssertion\obj\Debug\net7.0\DebugFailAssertion.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\DebugFailAssertion\bin\Debug\net7.0\DebugFailAssertion.exe
+c:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\DebugFailAssertion\bin\Debug\net7.0\DebugFailAssertion.deps.json
+c:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\DebugFailAssertion\bin\Debug\net7.0\DebugFailAssertion.runtimeconfig.json
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\DebugFailAssertion\bin\Debug\net7.0\DebugFailAssertion.dll
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\DebugFailAssertion\bin\Debug\net7.0\DebugFailAssertion.pdb
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\DebugFailAssertion\obj\Debug\net7.0\DebugFailAssertion.dll
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\DebugFailAssertion\obj\Debug\net7.0\refint\DebugFailAssertion.dll
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\DebugFailAssertion\obj\Debug\net7.0\DebugFailAssertion.pdb
+c:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\DebugFailAssertion\obj\Debug\net7.0\DebugFailAssertion.genruntimeconfig.cache
+c:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\DebugFailAssertion\obj\Debug\net7.0\ref\DebugFailAssertion.dll

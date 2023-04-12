@@ -1,0 +1,15 @@
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\ContractAssume\bin\Debug\net7.0\ContractAssume.exe
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\ContractAssume\bin\Debug\net7.0\ContractAssume.deps.json
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\ContractAssume\bin\Debug\net7.0\ContractAssume.runtimeconfig.json
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\ContractAssume\bin\Debug\net7.0\ContractAssume.dll
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\ContractAssume\bin\Debug\net7.0\ContractAssume.pdb
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\ContractAssume\obj\Debug\net7.0\ContractAssume.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\ContractAssume\obj\Debug\net7.0\ContractAssume.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\ContractAssume\obj\Debug\net7.0\ContractAssume.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\ContractAssume\obj\Debug\net7.0\ContractAssume.AssemblyInfo.cs
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\ContractAssume\obj\Debug\net7.0\ContractAssume.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\ContractAssume\obj\Debug\net7.0\ContractAssume.dll
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\ContractAssume\obj\Debug\net7.0\refint\ContractAssume.dll
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\ContractAssume\obj\Debug\net7.0\ContractAssume.pdb
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\ContractAssume\obj\Debug\net7.0\ContractAssume.genruntimeconfig.cache
+C:\Users\Formulatrix\Documents\GitHub\New folder (2)\Day17-master\Day17-master\ContractAssume\obj\Debug\net7.0\ref\ContractAssume.dll

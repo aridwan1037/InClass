@@ -13,3 +13,18 @@ c:\C#\Bootcamp\vscode\Day 12\GenerationDestructor\obj\Debug\net7.0\refint\Genera
 c:\C#\Bootcamp\vscode\Day 12\GenerationDestructor\obj\Debug\net7.0\GenerationDestructor.pdb
 c:\C#\Bootcamp\vscode\Day 12\GenerationDestructor\obj\Debug\net7.0\GenerationDestructor.genruntimeconfig.cache
 c:\C#\Bootcamp\vscode\Day 12\GenerationDestructor\obj\Debug\net7.0\ref\GenerationDestructor.dll
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\GenerationDestructor\bin\Debug\net7.0\GenerationDestructor.exe
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\GenerationDestructor\bin\Debug\net7.0\GenerationDestructor.deps.json
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\GenerationDestructor\bin\Debug\net7.0\GenerationDestructor.runtimeconfig.json
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\GenerationDestructor\bin\Debug\net7.0\GenerationDestructor.dll
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\GenerationDestructor\bin\Debug\net7.0\GenerationDestructor.pdb
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\GenerationDestructor\obj\Debug\net7.0\GenerationDestructor.csproj.AssemblyReference.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\GenerationDestructor\obj\Debug\net7.0\GenerationDestructor.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\GenerationDestructor\obj\Debug\net7.0\GenerationDestructor.AssemblyInfoInputs.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\GenerationDestructor\obj\Debug\net7.0\GenerationDestructor.AssemblyInfo.cs
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\GenerationDestructor\obj\Debug\net7.0\GenerationDestructor.csproj.CoreCompileInputs.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\GenerationDestructor\obj\Debug\net7.0\GenerationDestructor.dll
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\GenerationDestructor\obj\Debug\net7.0\refint\GenerationDestructor.dll
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\GenerationDestructor\obj\Debug\net7.0\GenerationDestructor.pdb
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\GenerationDestructor\obj\Debug\net7.0\GenerationDestructor.genruntimeconfig.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day12\GenerationDestructor\obj\Debug\net7.0\ref\GenerationDestructor.dll

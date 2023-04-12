@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Formulatrix\\Documents\\GitHub\\GCAndDispose\\dISPOSE\\dISPOSE.csproj": {}
+    "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\dISPOSE\\dISPOSE.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Formulatrix\\Documents\\GitHub\\GCAndDispose\\dISPOSE\\dISPOSE.csproj": {
+    "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\dISPOSE\\dISPOSE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Formulatrix\\Documents\\GitHub\\GCAndDispose\\dISPOSE\\dISPOSE.csproj",
+        "projectUniqueName": "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\dISPOSE\\dISPOSE.csproj",
         "projectName": "dISPOSE",
-        "projectPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\GCAndDispose\\dISPOSE\\dISPOSE.csproj",
+        "projectPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\dISPOSE\\dISPOSE.csproj",
         "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\GCAndDispose\\dISPOSE\\obj\\",
+        "outputPath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day12\\dISPOSE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
