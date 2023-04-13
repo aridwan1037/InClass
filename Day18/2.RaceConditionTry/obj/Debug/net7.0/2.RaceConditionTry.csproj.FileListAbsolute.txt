@@ -1,0 +1,15 @@
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day18\2.RaceConditionTry\obj\Debug\net7.0\2.RaceConditionTry.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day18\2.RaceConditionTry\obj\Debug\net7.0\2.RaceConditionTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day18\2.RaceConditionTry\obj\Debug\net7.0\2.RaceConditionTry.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day18\2.RaceConditionTry\obj\Debug\net7.0\2.RaceConditionTry.AssemblyInfo.cs
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day18\2.RaceConditionTry\obj\Debug\net7.0\2.RaceConditionTry.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day18\2.RaceConditionTry\bin\Debug\net7.0\2.RaceConditionTry.exe
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day18\2.RaceConditionTry\bin\Debug\net7.0\2.RaceConditionTry.deps.json
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day18\2.RaceConditionTry\bin\Debug\net7.0\2.RaceConditionTry.runtimeconfig.json
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day18\2.RaceConditionTry\bin\Debug\net7.0\2.RaceConditionTry.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day18\2.RaceConditionTry\bin\Debug\net7.0\2.RaceConditionTry.pdb
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day18\2.RaceConditionTry\obj\Debug\net7.0\2.RaceConditionTry.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day18\2.RaceConditionTry\obj\Debug\net7.0\refint\2.RaceConditionTry.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day18\2.RaceConditionTry\obj\Debug\net7.0\2.RaceConditionTry.pdb
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day18\2.RaceConditionTry\obj\Debug\net7.0\2.RaceConditionTry.genruntimeconfig.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day18\2.RaceConditionTry\obj\Debug\net7.0\ref\2.RaceConditionTry.dll

@@ -1,0 +1,15 @@
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day18\1.TaskWithReturn\bin\Debug\net7.0\1.TaskWithReturn.exe
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day18\1.TaskWithReturn\bin\Debug\net7.0\1.TaskWithReturn.deps.json
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day18\1.TaskWithReturn\bin\Debug\net7.0\1.TaskWithReturn.runtimeconfig.json
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day18\1.TaskWithReturn\bin\Debug\net7.0\1.TaskWithReturn.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day18\1.TaskWithReturn\bin\Debug\net7.0\1.TaskWithReturn.pdb
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day18\1.TaskWithReturn\obj\Debug\net7.0\1.TaskWithReturn.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day18\1.TaskWithReturn\obj\Debug\net7.0\1.TaskWithReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day18\1.TaskWithReturn\obj\Debug\net7.0\1.TaskWithReturn.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day18\1.TaskWithReturn\obj\Debug\net7.0\1.TaskWithReturn.AssemblyInfo.cs
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day18\1.TaskWithReturn\obj\Debug\net7.0\1.TaskWithReturn.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day18\1.TaskWithReturn\obj\Debug\net7.0\1.TaskWithReturn.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day18\1.TaskWithReturn\obj\Debug\net7.0\refint\1.TaskWithReturn.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day18\1.TaskWithReturn\obj\Debug\net7.0\1.TaskWithReturn.pdb
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day18\1.TaskWithReturn\obj\Debug\net7.0\1.TaskWithReturn.genruntimeconfig.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day18\1.TaskWithReturn\obj\Debug\net7.0\ref\1.TaskWithReturn.dll
