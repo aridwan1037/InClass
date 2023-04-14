@@ -1,0 +1,15 @@
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\4.ConsoleColor\bin\Debug\net7.0\4.ConsoleColor.exe
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day19\4.ConsoleColor\bin\Debug\net7.0\4.ConsoleColor.deps.json
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day19\4.ConsoleColor\bin\Debug\net7.0\4.ConsoleColor.runtimeconfig.json
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\4.ConsoleColor\bin\Debug\net7.0\4.ConsoleColor.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\4.ConsoleColor\bin\Debug\net7.0\4.ConsoleColor.pdb
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\4.ConsoleColor\obj\Debug\net7.0\4.ConsoleColor.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\4.ConsoleColor\obj\Debug\net7.0\4.ConsoleColor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\4.ConsoleColor\obj\Debug\net7.0\4.ConsoleColor.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\4.ConsoleColor\obj\Debug\net7.0\4.ConsoleColor.AssemblyInfo.cs
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\4.ConsoleColor\obj\Debug\net7.0\4.ConsoleColor.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\4.ConsoleColor\obj\Debug\net7.0\4.ConsoleColor.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\4.ConsoleColor\obj\Debug\net7.0\refint\4.ConsoleColor.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\4.ConsoleColor\obj\Debug\net7.0\4.ConsoleColor.pdb
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day19\4.ConsoleColor\obj\Debug\net7.0\4.ConsoleColor.genruntimeconfig.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day19\4.ConsoleColor\obj\Debug\net7.0\ref\4.ConsoleColor.dll

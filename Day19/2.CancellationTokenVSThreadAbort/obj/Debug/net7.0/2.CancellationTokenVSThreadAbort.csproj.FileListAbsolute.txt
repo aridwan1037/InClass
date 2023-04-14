@@ -1,0 +1,15 @@
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\2.CancellationTokenVSThreadAbort\bin\Debug\net7.0\2.CancellationTokenVSThreadAbort.exe
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day19\2.CancellationTokenVSThreadAbort\bin\Debug\net7.0\2.CancellationTokenVSThreadAbort.deps.json
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day19\2.CancellationTokenVSThreadAbort\bin\Debug\net7.0\2.CancellationTokenVSThreadAbort.runtimeconfig.json
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\2.CancellationTokenVSThreadAbort\bin\Debug\net7.0\2.CancellationTokenVSThreadAbort.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\2.CancellationTokenVSThreadAbort\bin\Debug\net7.0\2.CancellationTokenVSThreadAbort.pdb
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\2.CancellationTokenVSThreadAbort\obj\Debug\net7.0\2.CancellationTokenVSThreadAbort.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\2.CancellationTokenVSThreadAbort\obj\Debug\net7.0\2.CancellationTokenVSThreadAbort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\2.CancellationTokenVSThreadAbort\obj\Debug\net7.0\2.CancellationTokenVSThreadAbort.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\2.CancellationTokenVSThreadAbort\obj\Debug\net7.0\2.CancellationTokenVSThreadAbort.AssemblyInfo.cs
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\2.CancellationTokenVSThreadAbort\obj\Debug\net7.0\2.CancellationTokenVSThreadAbort.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\2.CancellationTokenVSThreadAbort\obj\Debug\net7.0\2.CancellationTokenVSThreadAbort.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\2.CancellationTokenVSThreadAbort\obj\Debug\net7.0\refint\2.CancellationTokenVSThreadAbort.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\2.CancellationTokenVSThreadAbort\obj\Debug\net7.0\2.CancellationTokenVSThreadAbort.pdb
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day19\2.CancellationTokenVSThreadAbort\obj\Debug\net7.0\2.CancellationTokenVSThreadAbort.genruntimeconfig.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day19\2.CancellationTokenVSThreadAbort\obj\Debug\net7.0\ref\2.CancellationTokenVSThreadAbort.dll

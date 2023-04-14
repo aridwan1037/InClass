@@ -1,0 +1,15 @@
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\3.AutoResetEvent\obj\Debug\net7.0\3.AutoResetEvent.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\3.AutoResetEvent\obj\Debug\net7.0\3.AutoResetEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\3.AutoResetEvent\obj\Debug\net7.0\3.AutoResetEvent.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\3.AutoResetEvent\obj\Debug\net7.0\3.AutoResetEvent.AssemblyInfo.cs
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\3.AutoResetEvent\obj\Debug\net7.0\3.AutoResetEvent.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\3.AutoResetEvent\bin\Debug\net7.0\3.AutoResetEvent.exe
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day19\3.AutoResetEvent\bin\Debug\net7.0\3.AutoResetEvent.deps.json
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day19\3.AutoResetEvent\bin\Debug\net7.0\3.AutoResetEvent.runtimeconfig.json
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\3.AutoResetEvent\bin\Debug\net7.0\3.AutoResetEvent.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\3.AutoResetEvent\bin\Debug\net7.0\3.AutoResetEvent.pdb
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\3.AutoResetEvent\obj\Debug\net7.0\3.AutoResetEvent.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\3.AutoResetEvent\obj\Debug\net7.0\refint\3.AutoResetEvent.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day19\3.AutoResetEvent\obj\Debug\net7.0\3.AutoResetEvent.pdb
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day19\3.AutoResetEvent\obj\Debug\net7.0\3.AutoResetEvent.genruntimeconfig.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day19\3.AutoResetEvent\obj\Debug\net7.0\ref\3.AutoResetEvent.dll
