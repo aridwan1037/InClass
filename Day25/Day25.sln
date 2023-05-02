@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Nlog", "1. Nlog\1. Nlog.csproj", "{3329E433-1175-4799-ABDE-1A5610909E01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Log4Net", "2. Log4Net\2. Log4Net.csproj", "{2D046241-22F3-4A56-B728-B8F9ED1E2DD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3329E433-1175-4799-ABDE-1A5610909E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3329E433-1175-4799-ABDE-1A5610909E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3329E433-1175-4799-ABDE-1A5610909E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3329E433-1175-4799-ABDE-1A5610909E01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D046241-22F3-4A56-B728-B8F9ED1E2DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D046241-22F3-4A56-B728-B8F9ED1E2DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D046241-22F3-4A56-B728-B8F9ED1E2DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D046241-22F3-4A56-B728-B8F9ED1E2DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+SRP --> membuat 2 class yaitu car dan rental yang masing" punya fungsinya sendiri
+OCP --> merubah class rental menjadi ABSTRACT CLASS RENTAL yang mana di inherit oleh 2 class child yaitu class standarRental dan LuxuryRental
+merubah class Car menjadi ICar
+

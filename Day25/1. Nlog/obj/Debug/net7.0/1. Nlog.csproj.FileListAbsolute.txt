@@ -1,0 +1,17 @@
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day25\1. Nlog\bin\Debug\net7.0\1. Nlog.exe
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day25\1. Nlog\bin\Debug\net7.0\1. Nlog.deps.json
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day25\1. Nlog\bin\Debug\net7.0\1. Nlog.runtimeconfig.json
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day25\1. Nlog\bin\Debug\net7.0\1. Nlog.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day25\1. Nlog\bin\Debug\net7.0\1. Nlog.pdb
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day25\1. Nlog\bin\Debug\net7.0\NLog.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day25\1. Nlog\obj\Debug\net7.0\1. Nlog.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day25\1. Nlog\obj\Debug\net7.0\1. Nlog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day25\1. Nlog\obj\Debug\net7.0\1. Nlog.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day25\1. Nlog\obj\Debug\net7.0\1. Nlog.AssemblyInfo.cs
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day25\1. Nlog\obj\Debug\net7.0\1. Nlog.csproj.CoreCompileInputs.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day25\1. Nlog\obj\Debug\net7.0\1. Nlog.csproj.CopyComplete
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day25\1. Nlog\obj\Debug\net7.0\1. Nlog.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day25\1. Nlog\obj\Debug\net7.0\refint\1. Nlog.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day25\1. Nlog\obj\Debug\net7.0\1. Nlog.pdb
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day25\1. Nlog\obj\Debug\net7.0\1. Nlog.genruntimeconfig.cache
+c:\Users\Formulatrix\Documents\GitHub\InClass\Day25\1. Nlog\obj\Debug\net7.0\ref\1. Nlog.dll

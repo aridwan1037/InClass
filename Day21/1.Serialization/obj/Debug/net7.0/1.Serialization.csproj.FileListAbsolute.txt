@@ -1,0 +1,15 @@
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day21\1.Serialization\obj\Debug\net7.0\1.Serialization.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day21\1.Serialization\obj\Debug\net7.0\1.Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day21\1.Serialization\obj\Debug\net7.0\1.Serialization.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day21\1.Serialization\obj\Debug\net7.0\1.Serialization.AssemblyInfo.cs
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day21\1.Serialization\obj\Debug\net7.0\1.Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day21\1.Serialization\bin\Debug\net7.0\1.Serialization.exe
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day21\1.Serialization\bin\Debug\net7.0\1.Serialization.deps.json
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day21\1.Serialization\bin\Debug\net7.0\1.Serialization.runtimeconfig.json
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day21\1.Serialization\bin\Debug\net7.0\1.Serialization.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day21\1.Serialization\bin\Debug\net7.0\1.Serialization.pdb
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day21\1.Serialization\obj\Debug\net7.0\1.Serialization.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day21\1.Serialization\obj\Debug\net7.0\refint\1.Serialization.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day21\1.Serialization\obj\Debug\net7.0\1.Serialization.pdb
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day21\1.Serialization\obj\Debug\net7.0\1.Serialization.genruntimeconfig.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day21\1.Serialization\obj\Debug\net7.0\ref\1.Serialization.dll

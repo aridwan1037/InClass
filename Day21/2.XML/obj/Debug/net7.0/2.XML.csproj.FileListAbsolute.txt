@@ -1,0 +1,15 @@
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day21\2.XML\obj\Debug\net7.0\2.XML.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day21\2.XML\obj\Debug\net7.0\2.XML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day21\2.XML\obj\Debug\net7.0\2.XML.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day21\2.XML\obj\Debug\net7.0\2.XML.AssemblyInfo.cs
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day21\2.XML\obj\Debug\net7.0\2.XML.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day21\2.XML\bin\Debug\net7.0\2.XML.exe
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day21\2.XML\bin\Debug\net7.0\2.XML.deps.json
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day21\2.XML\bin\Debug\net7.0\2.XML.runtimeconfig.json
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day21\2.XML\bin\Debug\net7.0\2.XML.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day21\2.XML\bin\Debug\net7.0\2.XML.pdb
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day21\2.XML\obj\Debug\net7.0\2.XML.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day21\2.XML\obj\Debug\net7.0\refint\2.XML.dll
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day21\2.XML\obj\Debug\net7.0\2.XML.pdb
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day21\2.XML\obj\Debug\net7.0\2.XML.genruntimeconfig.cache
+C:\Users\Formulatrix\Documents\GitHub\InClass\Day21\2.XML\obj\Debug\net7.0\ref\2.XML.dll

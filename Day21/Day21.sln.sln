@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Serialization", "1.Serialization\1.Serialization.csproj", "{DF9280CA-43E1-4780-8F2A-3E3718F1A64F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.XML", "2.XML\2.XML.csproj", "{6B05CBE3-662D-4274-A770-4C8C37DD1CED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.bebas", "3.bebas\3.bebas.csproj", "{8233C8A2-5098-41CF-876E-BFD938771B3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF9280CA-43E1-4780-8F2A-3E3718F1A64F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF9280CA-43E1-4780-8F2A-3E3718F1A64F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF9280CA-43E1-4780-8F2A-3E3718F1A64F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF9280CA-43E1-4780-8F2A-3E3718F1A64F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B05CBE3-662D-4274-A770-4C8C37DD1CED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B05CBE3-662D-4274-A770-4C8C37DD1CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B05CBE3-662D-4274-A770-4C8C37DD1CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B05CBE3-662D-4274-A770-4C8C37DD1CED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8233C8A2-5098-41CF-876E-BFD938771B3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8233C8A2-5098-41CF-876E-BFD938771B3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8233C8A2-5098-41CF-876E-BFD938771B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8233C8A2-5098-41CF-876E-BFD938771B3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

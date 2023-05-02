@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QreQSOZbuPHFPSxx2Q4dXaXmr5ZRqQpJdoYehNJcLH0nGxxCpFQUB5fl0/pXpy+5uPnVw4avBWP/rY8cb5mXBQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Formulatrix\\Documents\\GitHub\\InClass\\Day25\\1. Nlog\\1. Nlog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Formulatrix\\.nuget\\packages\\nlog\\5.1.4\\nlog.5.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}
