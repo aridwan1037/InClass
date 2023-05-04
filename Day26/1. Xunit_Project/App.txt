@@ -1,0 +1,10 @@
+namespace _1._Xunit_Project;
+
+public class App
+{
+    public static void Main(){
+        Operation operation = new Operation();
+        var x = operation.Add(5,2);
+        Console.WriteLine(x.ToString());
+    }
+}
