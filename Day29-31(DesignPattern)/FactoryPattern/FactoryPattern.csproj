@@ -5,8 +5,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-  <ItemGroup>
+<!--   <ItemGroup>
     <Compile Include="EmployeeFactory.cs" />
     <Compile Include="Employee.cs" />
-  </ItemGroup>
+  </ItemGroup> -->
 </Project>
