@@ -1,0 +1,15 @@
+c:\Users\Mike\Documents\GitHub\InClass\Day29-31(DesignPattern)\0.FactoryPattern\bin\Debug\net7.0\0.FactoryPattern.exe
+c:\Users\Mike\Documents\GitHub\InClass\Day29-31(DesignPattern)\0.FactoryPattern\bin\Debug\net7.0\0.FactoryPattern.deps.json
+c:\Users\Mike\Documents\GitHub\InClass\Day29-31(DesignPattern)\0.FactoryPattern\bin\Debug\net7.0\0.FactoryPattern.runtimeconfig.json
+c:\Users\Mike\Documents\GitHub\InClass\Day29-31(DesignPattern)\0.FactoryPattern\bin\Debug\net7.0\0.FactoryPattern.dll
+c:\Users\Mike\Documents\GitHub\InClass\Day29-31(DesignPattern)\0.FactoryPattern\bin\Debug\net7.0\0.FactoryPattern.pdb
+c:\Users\Mike\Documents\GitHub\InClass\Day29-31(DesignPattern)\0.FactoryPattern\obj\Debug\net7.0\0.FactoryPattern.csproj.AssemblyReference.cache
+c:\Users\Mike\Documents\GitHub\InClass\Day29-31(DesignPattern)\0.FactoryPattern\obj\Debug\net7.0\0.FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Mike\Documents\GitHub\InClass\Day29-31(DesignPattern)\0.FactoryPattern\obj\Debug\net7.0\0.FactoryPattern.AssemblyInfoInputs.cache
+c:\Users\Mike\Documents\GitHub\InClass\Day29-31(DesignPattern)\0.FactoryPattern\obj\Debug\net7.0\0.FactoryPattern.AssemblyInfo.cs
+c:\Users\Mike\Documents\GitHub\InClass\Day29-31(DesignPattern)\0.FactoryPattern\obj\Debug\net7.0\0.FactoryPattern.csproj.CoreCompileInputs.cache
+c:\Users\Mike\Documents\GitHub\InClass\Day29-31(DesignPattern)\0.FactoryPattern\obj\Debug\net7.0\0.FactoryPattern.dll
+c:\Users\Mike\Documents\GitHub\InClass\Day29-31(DesignPattern)\0.FactoryPattern\obj\Debug\net7.0\refint\0.FactoryPattern.dll
+c:\Users\Mike\Documents\GitHub\InClass\Day29-31(DesignPattern)\0.FactoryPattern\obj\Debug\net7.0\0.FactoryPattern.pdb
+c:\Users\Mike\Documents\GitHub\InClass\Day29-31(DesignPattern)\0.FactoryPattern\obj\Debug\net7.0\0.FactoryPattern.genruntimeconfig.cache
+c:\Users\Mike\Documents\GitHub\InClass\Day29-31(DesignPattern)\0.FactoryPattern\obj\Debug\net7.0\ref\0.FactoryPattern.dll

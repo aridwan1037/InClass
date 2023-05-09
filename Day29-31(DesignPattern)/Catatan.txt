@@ -1,0 +1,9 @@
+++kelebihan
+1. Minim kesalahan memasukan title atau jenis tertentu. karena sudah dibatasi pada factory method. 
+mudah dibaca juga.
+2. contoh animal --> tanpa inisiasi langsung maka ketika ada perubahan tidak perlu merubah program secara keseluruhan. Hanya perlu memodifikasi factorynya saja.
+
+Contoh penerapan factory mehod
+1. IData --> creator
+Accepted --> ConcreteCreatorA
+Rejected --> ConcreteCreatorB
