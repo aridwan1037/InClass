@@ -1,0 +1,15 @@
+c:\Users\Mike\Documents\GitHub\InClass\Day32\GetAFreshView\bin\Debug\net7.0\GetAFreshView.exe
+c:\Users\Mike\Documents\GitHub\InClass\Day32\GetAFreshView\bin\Debug\net7.0\GetAFreshView.deps.json
+c:\Users\Mike\Documents\GitHub\InClass\Day32\GetAFreshView\bin\Debug\net7.0\GetAFreshView.runtimeconfig.json
+c:\Users\Mike\Documents\GitHub\InClass\Day32\GetAFreshView\bin\Debug\net7.0\GetAFreshView.dll
+c:\Users\Mike\Documents\GitHub\InClass\Day32\GetAFreshView\bin\Debug\net7.0\GetAFreshView.pdb
+c:\Users\Mike\Documents\GitHub\InClass\Day32\GetAFreshView\obj\Debug\net7.0\GetAFreshView.csproj.AssemblyReference.cache
+c:\Users\Mike\Documents\GitHub\InClass\Day32\GetAFreshView\obj\Debug\net7.0\GetAFreshView.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Mike\Documents\GitHub\InClass\Day32\GetAFreshView\obj\Debug\net7.0\GetAFreshView.AssemblyInfoInputs.cache
+c:\Users\Mike\Documents\GitHub\InClass\Day32\GetAFreshView\obj\Debug\net7.0\GetAFreshView.AssemblyInfo.cs
+c:\Users\Mike\Documents\GitHub\InClass\Day32\GetAFreshView\obj\Debug\net7.0\GetAFreshView.csproj.CoreCompileInputs.cache
+c:\Users\Mike\Documents\GitHub\InClass\Day32\GetAFreshView\obj\Debug\net7.0\GetAFreshView.dll
+c:\Users\Mike\Documents\GitHub\InClass\Day32\GetAFreshView\obj\Debug\net7.0\refint\GetAFreshView.dll
+c:\Users\Mike\Documents\GitHub\InClass\Day32\GetAFreshView\obj\Debug\net7.0\GetAFreshView.pdb
+c:\Users\Mike\Documents\GitHub\InClass\Day32\GetAFreshView\obj\Debug\net7.0\GetAFreshView.genruntimeconfig.cache
+c:\Users\Mike\Documents\GitHub\InClass\Day32\GetAFreshView\obj\Debug\net7.0\ref\GetAFreshView.dll
